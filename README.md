@@ -11,14 +11,6 @@ Our goal is to create an algorithmic trading strategy combined with a forward lo
 - Machine Learning FB Prophet - "..\Project_2\Project_2_group_1\ml_strategy.ipynb"
 - Bollinger Bands - "..\Project_2\Project_2_group_1\Algorithm_strategy.ipynb"
 
-## Analysis 
-
-screenshot
-
-## Conclusions
-
-
-
 ## Technologies  
   
 Python, Pandas Library, Anaconda Jupyter Lab, Alpaca, yfinance, fbprophet  
@@ -34,7 +26,7 @@ Install required libraries such as fbprophet, Alpaca, yfinance
 
 ## Usage
 
-1.	Navigate .." through Jupyter Lab  
+1.	Navigate .."C:\Users\ahmed\desktop\Challenge_Folder\Project_2\Project_2_group_1" through Jupyter Lab  
 2.	run All cells  
 3.	Models and plots will be displayed inline  
   
