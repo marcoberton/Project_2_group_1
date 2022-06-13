@@ -26,9 +26,7 @@ Install required libraries such as fbprophet, Alpaca, yfinance
 
 ## Usage
 
-1.	Navigate .."C:\Users\ahmed\desktop\Challenge_Folder\Project_2\Project_2_group_1" through Jupyter Lab  
-2.	run All cells  
-3.	Models and plots will be displayed inline  
+1.	Navigate "..\Project_2_group_1" through Jupyter Lab and first run the  "data_prep.ipynb" to view the data. Then open "ml_strategy.ipynb" file to view the facebook predictions and then lastly go to "Algorithm_strategy.ipynb" and run the file to see the Algorithmic strategy using two methods of Bollinger Bands and Back-testing.
   
 ## Contributors  
   
